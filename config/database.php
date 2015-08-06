@@ -55,7 +55,7 @@ return [
         'mysql' => [
             'driver'    => 'mysql',
             'host'      => env('DB_HOST', 'localhost'),
-            'database'  => env('DB_DATABASE', 'TeamBrioche'),
+            'database'  => env('DB_DATABASE', 'TeamBriochetest'),
             'username'  => env('DB_USERNAME', 'derek'),
             'password'  => env('DB_PASSWORD', 'cirras91'),
             'charset'   => 'utf8',
